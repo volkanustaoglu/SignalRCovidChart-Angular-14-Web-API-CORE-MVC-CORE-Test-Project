@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PA43O9752k6X6sVw4enizEuq0wMOTvYV7i10erecobM=",
+  "Source": "SignalRCovidChart.API",
+  "BasePath": "_content/SignalRCovidChart.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
